@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-jpblq4.date-me.pro/sitemap.xml
